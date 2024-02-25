@@ -26,7 +26,7 @@ Conecta tu dispositivo o inicia un emulador.
 Ejecuta flutter run en la raíz del proyecto para lanzar la aplicación en tu dispositivo/emulador.
 # Uso
 Al iniciar la aplicación, se te pedirá que inicies sesión.
-Utiliza el usuario # user y la contraseña # 123 para iniciar sesión.
+Utiliza el usuario "user" y la contraseña "123" para iniciar sesión.
 Una vez iniciada la sesión, verás la lista de tareas pendientes.
 Puedes utilizar el menú desplegable para filtrar las tareas por estado.
 También puedes presionar el botón "RELOAD" para cargar todas las tareas sin filtrar.
