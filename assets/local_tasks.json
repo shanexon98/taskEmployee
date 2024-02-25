@@ -1,0 +1,17 @@
+[
+    {
+      "employeeName": "John Doe",
+      "task": "Task 1",
+      "date": "2022-03-01",
+      "observations": "Observations for Task 1",
+      "status": "completed"
+    },
+    {
+      "employeeName": "Jane Smith",
+      "task": "Task 2",
+      "date": "2022-03-02",
+      "observations": "Observations for Task 2",
+      "status": "inProgress"
+    }
+  ]
+  
